@@ -10,6 +10,8 @@ pip install pyrogram
 pip install apscheduler
 pip install schedule
 pip install pysondb
+pip install pytz
+
 
 cd ...
 python main.py
